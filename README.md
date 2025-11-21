@@ -18,7 +18,8 @@ https://newwebapp477488-aqh7hybbf6g4aebk.centralindia-01.azurewebsites.net/
 https://dgouda.com  
 https://www.dgouda.com
 
-<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/7e6a4bb0-593a-4561-bebf-a995d91255e0" />
+<img width="1889" height="1022" alt="image" src="https://github.com/user-attachments/assets/4c11bba1-828b-4bfb-adf8-29f16098c411" />
+
 
 ---
 
@@ -32,8 +33,7 @@ https://www.dgouda.com
 | dgouda.com | App Service Domain | Purchased custom domain |
 | dgouda.com | DNS Zone | DNS management for the domain |
 
-<img width="1871" height="601" alt="image" src="https://github.com/user-attachments/assets/07235503-c574-49d8-b68d-3bf3d38e097e" />
-
+<img width="1868" height="594" alt="image" src="https://github.com/user-attachments/assets/82a3cca0-67b6-48e6-9b0e-b1157b51d8fc" />
 
 ---
 
@@ -58,7 +58,8 @@ https://www.dgouda.com
    - **App Service Plan:** Basic (B1)
 3. Click **Review + Create**
    
-<img width="1784" height="878" alt="image" src="https://github.com/user-attachments/assets/d99e5e7f-96f9-483e-b21b-cd727f634a91" />
+<img width="1858" height="896" alt="image" src="https://github.com/user-attachments/assets/be33915d-8826-41b3-8dda-bfde923b144c" />
+
 
 ---
 
@@ -85,7 +86,8 @@ https://www.dgouda.com
 3. Deploy updates to staging first
 4. Swap staging ↔ production after testing.
    
-<img width="1075" height="505" alt="image" src="https://github.com/user-attachments/assets/ad0a69c3-ae3d-4b50-897a-77d891e73ccb" />
+<img width="1875" height="323" alt="image" src="https://github.com/user-attachments/assets/228c8550-bfcd-4317-83d3-e00870d9f598" />
+
 
 ---
 
@@ -104,7 +106,8 @@ This application is deployed to Azure App Service using **Visual Studio Publish*
    - **Staging** slot  
 5. Click **Publish**
 
-<img width="1096" height="621" alt="image" src="https://github.com/user-attachments/assets/8867fdca-e5fe-493a-8a2a-5cb1c5febcdc" />
+<img width="902" height="326" alt="image" src="https://github.com/user-attachments/assets/6e30a90d-aafc-4d73-a97a-52547d8c5481" />
+
 
 
 Visual Studio builds and deploys the application directly to Azure.  

@@ -14,7 +14,7 @@ It demonstrates how to create, configure, and deploy a web app using **Visual St
 **Production URL:**  
 https://newwebapp477488-aqh7hybbf6g4aebk.centralindia-01.azurewebsites.net/
 
-**Custom Domains (if mapped):**  
+**Custom Domains:**  
 https://dgouda.com  
 https://www.dgouda.com
 
